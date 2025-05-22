@@ -1,12 +1,14 @@
 # Log Ide Fitur untuk DTETI SuperApp 🚀
 
+Selamat datang di template repository untuk Studi Kasus 0.
+
 ## Deskripsi Singkat SuperApp
 
 DTETI Kampus SuperApp adalah aplikasi fiktif yang bertujuan untuk mengintegrasikan berbagai layanan dan informasi penting bagi mahasiswa dan staf DTETI UGM dalam satu platform yang mudah diakses.
 
 ## Format Pengajuan Ide Fitur
 
-Mohon ajukan ide fitur dengan format berikut di bawah salah satu kategori yang paling sesuai. 
+Mohon ajukan ide fitur dengan format berikut di bawah salah satu kategori yang paling sesuai.
 Tambahkan ide Anda sebagai satu blok entri baru.
 
 Format & Contoh Pengajuan Ide Fitur:
