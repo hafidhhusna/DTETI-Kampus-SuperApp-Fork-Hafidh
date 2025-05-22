@@ -23,16 +23,27 @@ Format & Contoh Pengajuan Ide Fitur:
 
 Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda merasa fitur tersebut tidak cocok dengan kategori yang ada, silakan tambahkan di bagian "Ide Inovatif Lainnya". Lakukan penulisan markdown dengan baik, menghindari violation pada format markdown.
 
+### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
 
-### A. Akademik & Pembelajaran 📚
+<!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
+<!-- START MENAMBAHKAN DI SINI -->
+
+<!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### C. Kehidupan Sosial & Komunitas Mahasiswa 🤝
+<!-- START MENAMBAHKAN DI SINI -->
+
+<!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### D. Administrasi & Layanan Pendukung ⚙️
+<!-- START MENAMBAHKAN DI SINI -->
+
+<!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### E. Ide Inovatif Lainnya ✨
+<!-- START MENAMBAHKAN DI SINI -->
 
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
