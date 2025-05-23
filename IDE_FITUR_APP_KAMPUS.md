@@ -24,7 +24,11 @@ Format & Contoh Pengajuan Ide Fitur:
 Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda merasa fitur tersebut tidak cocok dengan kategori yang ada, silakan tambahkan di bagian "Ide Inovatif Lainnya". Lakukan penulisan markdown dengan baik, menghindari violation pada format markdown.
 
 ### A. Akademik & Pembelajaran 📚
-<!-- START MENAMBAHKAN DI SINI -->
+* **Nama Fitur:** Fitur Sistem Informasi Kolaborasi Project Dosen
+* **Deskripsi Singkat:** Fitur ini memungkinkan mahasiswa untuk mendapatkan informasi terkait dosen-dosen yang sedang membuka lowongan untuk mahasiswa sebagai asisten project
+* **Target Pengguna Utama:** Mahasiswa S1, S2, dan S3 DTETI
+* **Value Proposition:** Mempermudah akses informasi terhadap peluang kolaborasi antara mahasiswa dengan dosen dalam project dosen
+* **Diajukan oleh:** 498640
 
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
